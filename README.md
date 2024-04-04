@@ -1,1 +1,1 @@
-<strong>Healthcare Application<strong>
+Healthcare Application
